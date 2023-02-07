@@ -28,7 +28,6 @@ and so you may be tempted to ask why would anyone do it?
 The simplest answer is that many people must use command line web browsers due to physical disability.
 For example, the famous physicist Stephen Hawking
 
-<img src=hawking.webp width=400px />
 
 could not use a mouse,
 and so could not use a traditional web browser.
